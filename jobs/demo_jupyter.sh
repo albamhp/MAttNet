@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-source venv/bin/activate
+source venv2/bin/activate
 module load cuda/8.0
 
 export XDG_RUNTIME_DIR=""
