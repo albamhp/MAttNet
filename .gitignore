@@ -1,6 +1,7 @@
 **/output/*
 logs/*
 /data/*
+/results/*
 
 # Pycharm IDE
 .idea
